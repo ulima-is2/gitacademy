@@ -20,3 +20,4 @@ Bienvenidos.
 - https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/
 - https://code.visualstudio.com/docs/editor/versioncontrol
 - https://towardsdatascience.com/get-rid-of-your-fear-and-conqueror-git-in-less-than-five-minutes-56930c269ffd
+- https://stackoverflow.com/questions/29776439/username-and-password-in-command-for-git-push 
