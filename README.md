@@ -3,7 +3,7 @@
 Bienvenidos.
 
 ## Objetivos
-- Aprender git (begginners)
+- Aprender git (beginners)
 - Configurar un repo para el grupo
 
 ## Dinámica
